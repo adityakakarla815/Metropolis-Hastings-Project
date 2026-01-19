@@ -1,0 +1,1 @@
+Explored the foundations of the Metropolis-Hastings algorithm by implementing the Metropolis algorithm in R to sample 1,000,000 points from a bimodal distribution; assessed convergence using trace plots and Gelman-Rubin diagnostics, estimated posterior expectations, and validated the detailed balance criterion across multiple MCMC chains.
